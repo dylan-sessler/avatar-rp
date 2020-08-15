@@ -28,9 +28,8 @@ in-combat and out of combat bonuses for both. Basically, you will have more
 bending tools at your disposal, but you don't get the mastery bonuses for either.
 
 ** The System
-This will be a D10 based system. 1s are crit fails. 10s are crit
-successes. Everything else in between is based on the difficulty of what you are
-trying to do!
+This will be a D10 based system. 1s are bad. 10s are good. Everything else in
+between is based on the difficulty of what you are trying to do!
 *** Combat
 Combat is fast, chaotic, engaging, and hopefully fun. And totally never play tested before. Each round follows
 the following cadence:
@@ -50,7 +49,7 @@ Each round consists of 30 seconds where players will type out the action that
 they will take that round (6 seconds). An action should be formatted like the
 following for clarity:
 
-*ROLL : MODS : ACTION : TARGET (Optional) : FLOURISH *
+*ROLL : MODS : ACTION : TARGET (Optional) : FLOURISH*
 
 Example:
 
