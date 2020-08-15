@@ -19,7 +19,7 @@ Pick a bending style from the table below!
 | Air           | Be the leaf: -1 to all incoming atk rolls                                                        | Emissary of Peace: +2 on all peaceful resolution solution checks                                     |
 | Fire          | Inferno: Each round you attack, gain +1 for each previous consecutive round you attacked (max 3) | Hot Head: Gain a +4 on any atk roll you make out of combat (surprise attack)                         |
 | Water         | Have an /ice/ fall: Each time you attack an enemy, grant them -1 on their next roll              | A trick of the Eye: +2 on all deception solution checks                                              |
-| Earth         | A rock is a hard place: When you prepare, grant an ally -2 to all incoming atk rolls next round  | Stubborn: When you make an ability check and fail, you can try again with a -3 on the retry          |
+| Earth         | A rock is a hard place: When you prepare, grant an ally or yourself -2 to all incoming atk rolls next round | Stubborn: When you make an ability check and fail, you can try again with a -3 on the retry          |
 | None          | The plan person: Before each combat round you can communicate a plan in 10 seconds or less       | Comic relief: when you make the party laugh, grant someone +2 on their next roll (max one at a time) |
 
 **** ADVANCED
