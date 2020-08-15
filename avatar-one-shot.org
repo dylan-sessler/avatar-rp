@@ -1,0 +1,86 @@
+* Avatar 1-shot System
+** Character Creation
+*** Personality
+1 Sentence MAX for each:
+- Appearance
+- Backstory
+- Strengths
+- Flaws
+Feel free to use your current character of use a stock character/movie trope!
+
+*** Class Selection  
+We're in the Avatar universe! That means we can do cool, fancy bending
+things. Time period is roughly 50 years AFTER Korra, so we got that
+post-industrialist vibe and post-industrialist technology options.
+
+Pick a bending style from the table below! 
+
+| Bending Style | Mastery Combat Bonus                                                                            | Mastery Out of Combat Bonus                                                                          |
+|---------------+-------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------|
+| Air           | Be the leaf: -1 to all incoming atk rolls                                                       | Emissary of Peace: +2 on all peaceful resolution solution checks                                     |
+| Fire          | Inferno: Each round you attack, gain +1 for each previous consecutive round you attacked        | Hot Head: Gain a +4 on any atk roll you make out of combat (surprise attack)                         |
+| Water         | Have an /ice/ fall: Each time you attack an enemy, grant them -1 on their next roll             | A trick of the Eye: +2 on all deception solution checks                                              |
+| Earth         | A rock is a hard place: When you prepare, grant an ally -2 to all incoming atk rolls next round | Stubborn: When you make an ability check and fail, you can try again with a -3 on the retry          |
+| None          | The plan person: Before each combat round you can communicate a plan in 10 seconds or less      | Comic relief: when you make the party laugh, grant someone +2 on their next roll (max one at a time) |
+
+**** ADVANCED
+Be a science experiment! Pick two bending styles, but lose the
+in-combat and out of combat bonuses for both. Basically, you will have more
+bending tools at your disposal, but you don't get the mastery bonuses for either.
+
+** The System
+This will be a D10 based system. 1s are crit fails. 10s are crit
+successes. Everything else in between is based on the difficulty of what you are
+trying to do!
+*** Combat
+Combat is fast, stressful, engaging, and hopefully fun. And totally never play tested before. Each round follows
+the following cadence:
+- (Optional) Plan
+- Type Action
+- Reveal + Resolve
+- (Optional) Plan
+- Etc.
+**** Plan
+During combat, no one can talk. Shit is going cray cray and y'all are busy
+bending and dodging ice shards. All interaction is text based. The one exception
+for this is if there is a non-bender in the party, they can take 10 seconds
+before each round to state a plan for the group. No one needs to follow it, but
+if it seems like a good idea feel free to.
+**** Type Action
+Each round consists of 30 seconds where players will type out the action that
+they will take that round (6 seconds). An action should be formatted like the
+following for clarity:
+
+*ACTION - TARGET (Optional) - FLOURISH*
+
+During the 30 seconds, do not submit your action. Wait until the end. At the end
+of the 30 seconds, the DM will tell the players to submit actions where everyone
+should press enter in the chat roughly simultaneously. This will keep things
+fast, and make it so each person is making their own strong choices as
+individuals.
+***** Combat Actions
+Combat is a game of rock paper scissors. Parry beats attack, attack beats
+prepare, and prepare beats parry.
+| Action  | Effect                                                                                                        |
+|---------+---------------------------------------------------------------------------------------------------------------|
+| Attack  | Roll a d10, try to hurt somebody!                                                                             |
+| Parry   | Counter attack, each time you get attacked and someone misses, you get a free attack back with +1 on the roll |
+| Prepare | Focus for your next action, +5 to your next roll!                                                             |
+| Retreat | Run away!                                                                                                     |
+***** Flourishes
+Cool and practical flourishes will make your rolls more successful. Impractical
+ones, well those will make things a bit harder but will still be fun! Add some flavor and have some
+fun! But whatever you do, don't get stale with your flourishes or the wrath of
+god will smite you! No recycling the same combos - that will negatively affect
+your outcomes!
+- Don't just *ATTACK*. Give a one-two firebending combo where the first punch
+  creates a bright array of sparks in front of you to distract while the second
+  punch goes for the gut as a concentrated beam of fire.
+- Don't just *PARRY*. Glide on a water tornado, creating a mist in the air that
+  allows you to earlier sense incoming attacks from all directions. 
+- Don't just *PREPARE*. Begin moving to some high ground on a nearby hill that
+  has a couple juicy boulders to lob at your foes next round.
+**** Reveal + Resolve
+This is where DM renders the universe for y'all. All actions (party+enemies)
+happens seimultaneously. We're not going with HP or damage, or any complicated
+to  track shit like that. We'll keep it narrative based and fast paced!
